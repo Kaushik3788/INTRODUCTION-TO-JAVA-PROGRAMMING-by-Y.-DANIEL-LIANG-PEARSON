@@ -1,0 +1,18 @@
+// PROGRAMMING EXERCISES, Ques 1 :- 
+
+public class First
+{
+    public static void main(String[] args)
+    {
+         System.out.println("Welcome to Java");
+         System.out.println("Welcome to Computer Science");
+         System.out.println("Programming is fun");
+    }
+}
+
+
+/* Output :-
+Welcome to Java
+Welcome to Computer Science
+d Programming is fun
+*/
