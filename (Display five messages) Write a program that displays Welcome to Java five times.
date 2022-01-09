@@ -1,0 +1,23 @@
+// Ques 2nd :-
+
+public class Second
+{
+    public static void main(String[] args)
+    {
+         System.out.println("Welcome to Java");
+         System.out.println("Welcome to Java");
+         System.out.println("Welcome to Java");
+         System.out.println("Welcome to Java");
+         System.out.println("Welcome to Java");
+       
+    }
+}
+
+
+/* Output :- 
+Welcome to Java
+Welcome to Java
+Welcome to Java
+Welcome to Java
+Welcome to Java
+*/
