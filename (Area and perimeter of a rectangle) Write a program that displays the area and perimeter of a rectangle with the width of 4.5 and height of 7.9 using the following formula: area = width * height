@@ -5,7 +5,7 @@ formula:
 area = width * height
 */
 
-public class Eight 
+public class Nine 
 {
     public static void main(String[] args) 
     {
@@ -18,6 +18,8 @@ public class Eight
 
 
 /* Output:-
+
 area of rectangle is :- 35.550000000000004
 Perimeter of rectangle is :- 24.8
+
 */
