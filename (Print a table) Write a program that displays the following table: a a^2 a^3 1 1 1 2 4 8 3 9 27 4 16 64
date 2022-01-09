@@ -7,7 +7,7 @@ a a^2 a^3
 4 16 64
 */ 
 
-public class Second
+public class Four
 {
     public static void main(String[] args)
     {
